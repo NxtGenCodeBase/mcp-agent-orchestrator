@@ -1,8 +1,8 @@
 # 🤖 mcp-agent-orchestrator: Local Agentic AI via Model Context Protocol
 
-[![Python 3.10+](https://img.shields.io/badge/Python-Python_-Orange)](https://www.python.org)
-[![MCP](https://img.shields.io/badge/MCP-MCP_-Blue)](https://modelcontextprotocol.io)
-[![Ollama](https://img.shields.io/badge/Ollama-Ollama_-Green)](https://ollama.com)
+[![Python 3.10+](https://img.shields.io/badge/Python-Python-Orange)](https://www.python.org)
+[![MCP](https://img.shields.io/badge/MCP-MCP-Blue)](https://modelcontextprotocol.io)
+[![Ollama](https://img.shields.io/badge/Ollama-Ollama-Green)](https://ollama.com)
 
 **mcp-agent-orchestrator** is a production-ready starter template for building **local-first Agentic AI** systems. It demonstrates how to connect a **FastMCP (Python) Server** to a **LangGraph Orchestrator** using **Ollama** as the local LLM host.
 
