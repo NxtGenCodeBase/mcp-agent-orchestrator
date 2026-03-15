@@ -1,6 +1,6 @@
 # 🤖 mcp-agent-orchestrator: Local Agentic AI via Model Context Protocol
 
-[![Python 3.10+](https://img.shields.io)](https://www.python.org)
+[![Python 3.10+](https://img.shields.io/badge/Python-Python_-Orange)](https://www.python.org)
 [![MCP](https://img.shields.io)](https://modelcontextprotocol.io)
 [![Ollama](https://img.shields.io)](https://ollama.com)
 
