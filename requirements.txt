@@ -1,0 +1,6 @@
+mcp
+fastmcp
+langchain-ollama
+langgraph
+langchain-mcp-adapters
+streamlit
